@@ -38,5 +38,5 @@ TODO: add e-store links to each tool.
 | Vernier Caliper | Sieve assembly |  | to mark level upto which Zeolite needs to be filled (after comaction) | [https://youtu.be/kibjku2GYq0?t=257](https://youtu.be/kibjku2GYq0?t=257) |  |
 | Vibratory mechanism  | Zeolite compaction |  | Many approaches to this - use a pneumatic impact hammer, a vibratory table, any reciprocating hand tool (sander, buffing etc).  Vacuum also works well - using either a Shop Vac or maybe a regular vacuum cleaner) | [https://youtu.be/kibjku2GYq0?t=441](https://youtu.be/kibjku2GYq0?t=441) |  |
 
-Ported by @nirmaljeffrey.
+Ported by [@nirmaljeffrey](https://github.com/nirmaljeffrey).
 
